@@ -1,0 +1,2 @@
+﻿Key->G:\AES256\
+Encrype->G:\AES256\
